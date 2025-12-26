@@ -8,7 +8,7 @@ Sou um aprendiz em tecnologia e futuro desenvolvedor em construção... 🚀 Foc
 
 Atualmente, dedico meu tempo aos bootcamps da **DIO (Digital Innovation One)** e aos meus projetos para prática:
 
-- **[Projetos_DIO](https://github.com/mateus-fpl/Projetos_DIO):** Onde aplico os conhecimentos dos desafios práticos em IA Generativa, Web Moderno e, futuramente, Bancos de Dados de Grafos (Neo4J).
+- **[Projetos_DIO](https://github.com/mateus-fpl/DIO):** Onde aplico os conhecimentos dos desafios práticos em IA Generativa, Web Moderno e, futuramente, Bancos de Dados de Grafos (Neo4J).
 - **[Primeiros_passos](https://github.com/mateus-fpl/Primeiros_passos):** Meu laboratório fundamental com Java, Python, Javascript e Web básico.
 
 ---
