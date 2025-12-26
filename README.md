@@ -29,15 +29,6 @@ Atualmente, dedico meu tempo aos bootcamps da **DIO (Digital Innovation One)** e
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-fpl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-fpl&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
 ### 📫 Como me encontrar?
 
 - **GitHub:** [mateus-fpl](https://github.com/mateus-fpl)
