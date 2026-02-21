@@ -10,7 +10,7 @@ Atualmente, dedico meu tempo aos bootcamps da **DIO (Digital Innovation One)** e
 
 - **[Projetos_DIO](https://github.com/mateus-fpl/DIO):** Onde aplico os conhecimentos dos desafios práticos em IA Generativa, Web Moderno e, futuramente, Bancos de Dados de Grafos (Neo4J).
 - **[Primeiros_passos](https://github.com/mateus-fpl/Primeiros_passos):** Meu laboratório fundamental com MySQL, Python, Javascript e Web básico.
-- **[Projetos_python](https://github.com/mateus-fpl/Projetos_Python):** Repositório onde experimento outros projetos de Python
+- **[Projetos_Python](https://github.com/mateus-fpl/Projetos_Python):** Repositório onde experimento outros projetos de Python
 
 ---
 
